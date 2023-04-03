@@ -10,7 +10,7 @@ I love snail house (music) btw
       <p style="text-align: center; font-weight: bold;">
         GOD I LOVE IT!! 
         I LISTEN TO IT LITERALLY EVERY SINGLE DAY!! 
-        I CANNOT LIVE A SINGLE DAY WITHOUT IT!!! 😭😭</p>
+        I CANNOT LIVE WITHOUT IT!!! 😭😭</p>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=H4PZ7mju5QQ">
@@ -18,7 +18,7 @@ I love snail house (music) btw
       </a>
       <p style="text-align: center; font-weight: bold;"><a href="https://www.youtube.com/watch?v=H4PZ7mju5QQ">WONDERPOP (MoeShop) 😭</a></p>
       <p style="text-align: center; font-weight: bold;">
-        First hyperpop track I ever listened... literally cried entire rivers that day. 🥺</p>
+        First hyperpop track I ever listened...</p>
     </td>
     </td>
   </tr>
