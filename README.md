@@ -10,7 +10,7 @@ HuggingFace: https://huggingface.co/chavinlo
 
 Twitter: https://twitter.com/femboylover03
 
-Discord: Depositame#0001
+Discord: @qasb
 
 Bye!
 
