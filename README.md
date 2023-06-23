@@ -1,3 +1,7 @@
+![](https://komarev.com/ghpvc/?username=chavinlo)
+
+![](https://github-readme-stats.vercel.app/api?username=chavinlo&show_icons=true&theme=neon)
+
 📻 What I am listening to: https://www.last.fm/user/hololens
 
 What I worked on previously:
@@ -14,4 +18,4 @@ Discord: @qasb
 
 Bye!
 
-![](https://komarev.com/ghpvc/?username=chavinlo)
+
