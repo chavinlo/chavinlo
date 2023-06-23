@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=chavinlo)
 
-![](https://github-readme-stats.vercel.app/api?username=chavinlo&show_icons=true&theme=neon)
+![](https://github-readme-stats.vercel.app/api?username=chavinlo&show_icons=true&theme=neon&rank_icon=github)
 
 📻 What I am listening to: https://www.last.fm/user/hololens
 
