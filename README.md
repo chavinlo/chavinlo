@@ -12,8 +12,6 @@ What I worked on previously:
 
 HuggingFace: https://huggingface.co/chavinlo
 
-Twitter: https://twitter.com/femboylover03
-
 Discord: @qasb
 
 Bye!
